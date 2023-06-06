@@ -1,0 +1,1588 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Never Lie",
+      "author": "Freida McFadden",
+      "price": 9.95,
+      "description": "But when they visit the remote manor that once belonged to Dr. Adrienne Hale, a renowned psychiatrist who vanished without a trace four years earlier, a violent winter storm traps them at the estate… with no chance of escape until the blizzard comes to an end.In search of a book to keep her entertained until the snow abates, Tricia happens upon a secret room. One that contains audio transcripts from every single patient Dr. Hale has ever interviewed. As Tricia listens to the cassette tapes, she learns about the terrifying chain of events leading up to Dr. Hale’s mysterious disappearance.",
+      "Genre": "horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661428846i/62080187.jpg",
+      "rating": {
+        "stars": {
+          "five": 43,
+          "four": 37,
+          "three": 14,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.21,
+        "count": "85,547"
+      },
+      "discount": 50
+    },
+    {
+      "id": 2,
+      "name": "Run on Red",
+      "author": "Noelle W. Ihli",
+      "price": 9.5,
+      "description": "A rural country road. No cell signal for miles. A terrifying game of cat-and-mouse.By the time Laura and Olivia notice the headlights tailing them through the hills, it’s too late. What seems, at first, like a case of road rage quickly unfolds into a heart-pounding chase—and a battle for survival.Who are the men in the truck? What do they want? And can Laura and Olivia outrun—and outsmart—them long enough to call for help, even if it means taking their chances in the hills on foot?As their situation grows more perilous, the girls realize that the real terror has only just begun. But flight won’t save them from their pursuers. If they’re going to make it home alive, they'll have to fight.",
+      "Genre": "horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656767791i/61381555.jpg",
+      "rating": {
+        "stars": {
+          "five": 24,
+          "four": 38,
+          "three": 28,
+          "two": 7,
+          "one": 1
+        },
+        "rate": 3.77,
+        "count": "18,659"
+      },
+      "discount": 30
+    },
+    {
+      "id": 3,
+      "name": "It",
+      "author": "Stephen King ",
+      "price": 10.95,
+      "description": "It’s a small city, a place as hauntingly familiar as your own hometown. Only in Derry the haunting is real. They were seven teenagers when they first stumbled upon the horror. Now they are grown-up men and women who have gone out into the big world to gain success and happiness. But none of them can withstand the force that has drawn them back to Derry to face the nightmare without an end, and the evil without a name.",
+      "Genre": "horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1334416842i/830502.jpg",
+      "rating": {
+        "stars": {
+          "five": 51,
+          "four": 29,
+          "three": 13,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.25,
+        "count": "1,026,936"
+      },
+      "trending": false
+    },
+    {
+      "id": 4,
+      "name": "Carrie",
+      "author": "Stephen King ",
+      "price": 9.95,
+      "description": "A modern classic, Carrie introduced a distinctive new voice in American fiction -- Stephen King. The story of misunderstood high school girl Carrie White, her extraordinary telekinetic powers, and her violent rampage of revenge, remains one of the most barrier-breaking and shocking novels of all time.",
+      "Genre": "horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1166254258i/10592.jpg",
+      "rating": {
+        "stars": {
+          "five": 34,
+          "four": 26,
+          "three": 23,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 3.98,
+        "count": "662,961"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 5,
+      "name": "The Shining",
+      "author": "Stephen King ",
+      "price": 19.95,
+      "description": "Jack Torrance's new job at the Overlook Hotel is the perfect chance for a fresh start. As the off-season caretaker at the atmospheric old hotel, he'll have plenty of time to spend reconnecting with his family and working on his writing. But as the harsh winter weather sets in, the idyllic location feels ever more remote...and more sinister. And the only one to notice the strange and terrible forces gathering around the Overlook is Danny Torrance, a uniquely gifted five-year-old.",
+      "Genre": "horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1353277730i/11588.jpg",
+      "rating": {
+        "stars": {
+          "five": 50,
+          "four": 32,
+          "three": 12,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.26,
+        "count": "1,388,156"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 6,
+      "name": "Fairy Tale",
+      "author": "Stephen King ",
+      "price": 10.95,
+      "description": "Charlie Reade looks like a regular high school kid, great at baseball and football, a decent student. But he carries a heavy load. His mom was killed in a hit-and-run accident when he was ten, and grief drove his dad to drink. Charlie learned how to take care of himself—and his dad. Then, when Charlie is seventeen, he meets Howard Bowditch, a recluse with a big dog in a big house at the top of a big hill. In the backyard is a locked shed from which strange sounds emerge, as if some creature is trying to escape. When Mr. Bowditch dies, he leaves Charlie the house, a massive amount of gold, a cassette tape telling a story that is impossible to believe, and a responsibility far too massive for a boy to shoulder.Because within the shed is a portal to another world—one whose denizens are in peril and whose monstrous leaders may destroy their own world, and ours. In this parallel universe, where two moons race across the sky, and the grand towers of a sprawling palace pierce the clouds, there are exiled princesses and princes who suffer horrific punishments; there are dungeons; there are games in which men and women must fight each other to the death for the amusement of the “Fair One.” And there is a magic sundial that can turn back time.",
+      "Genre": "horror",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647789287i/60177373.jpg",
+      "rating": {
+        "stars": {
+          "five": 43,
+          "four": 34,
+          "three": 16,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 4.16,
+        "count": "136,304"
+      },
+      "bestseller": true,
+      "trending": true
+    },
+    {
+      "id": 7,
+      "name": "Twilight",
+      "author": "Stephenie Meyer",
+      "price": 19.95,
+      "description": "About three things I was absolutely positive.First, Edward was a vampire.Second, there was a part of him—and I didn't know how dominant that part might be—that thirsted for my blood.And third, I was unconditionally and irrevocably in love with him.Deeply seductive and extraordinarily suspenseful, Twilight is a love story with bite.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1361039443i/41865.jpg",
+      "rating": {
+        "stars": {
+          "five": 35,
+          "four": 23,
+          "three": 20,
+          "two": 10,
+          "one": 10
+        },
+        "rate": 3.63,
+        "count": "6,162,667"
+      },
+      "discount": 50,
+      "trending": false
+    },
+    {
+      "id": 8,
+      "name": "Harry Potter",
+      "author": "J.K. Rowling",
+      "price": 19.95,
+      "description": "Harry has been burdened with a dark, dangerous and seemingly impossible task: that of locating and destroying Voldemort's remaining Horcruxes. Never has Harry felt so alone, or faced a future so full of shadows. But Harry must somehow find within himself the strength to complete the task he has been given. He must leave the warmth, safety and companionship of The Burrow and follow without fear or hesitation the inexorable path laid out for him.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663805647i/136251.jpg",
+      "rating": {
+        "stars": {
+          "five": 72,
+          "four": 19,
+          "three": 5,
+          "two": 1,
+          "one": 1
+        },
+        "rate": 4.62,
+        "count": "3,470,769"
+      },
+      "bestseller": true
+    },
+    {
+      "id": 9,
+      "name": "The Hobbit",
+      "author": "John Tolkien",
+      "price": 25.95,
+      "description": "The Hobbit met with instant critical acclaim when it was first published in 1937. Now recognized as a timeless classic, this introduction to the hobbit Bilbo Baggins, the wizard Gandalf, Gollum, and the spectacular world of Middle-earth recounts of the adventures of a reluctant hero, a powerful and dangerous ring, and the cruel dragon Smaug the Magnificent. The text in this 372-page paperback edition is based on that first published in Great Britain by Collins Modern Classics (1998), and includes a note on the text by Douglas A. Anderson (2001).",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1546071216i/5907.jpg",
+      "rating": {
+        "stars": {
+          "five": 53,
+          "four": 28,
+          "three": 12,
+          "two": 3,
+          "one": 2
+        },
+        "rate": 4.28,
+        "count": "3,665,154"
+      },
+      "bestseller": true,
+      "discount": 20,
+      "trending": true
+    },
+    {
+      "id": 10,
+      "name": "Malibu Rising",
+      "author": "Taylor Reid",
+      "price": 19.95,
+      "description": "Malibu: August, 1983. It’s the day of Nina Riva’s annual end-of-summer party, and anticipation is at a fever pitch. Everyone wants to be around the famous Rivas: Nina, the talented surfer and supermodel; brothers Jay and Hud, one a championship surfer, the other a renowned photographer; and their adored baby sister, Kit. Together, the siblings are a source of fascination in Malibu and the world over—especially as the offspring of the legendary singer, Mick Riva.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618293107i/55404546.jpg",
+      "rating": {
+        "stars": {
+          "five": 33,
+          "four": 43,
+          "three": 18,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.07,
+        "count": "783,822"
+      },
+      "bestseller": true,
+      "discount": 30,
+      "trending": true
+    },
+    {
+      "id": 11,
+      "name": "The Lost Apothecary",
+      "author": "Sarah Penner",
+      "price": 9.95,
+      "description": "One cold February evening in 1791, at the back of a dark London alley in a hidden apothecary shop, Nella awaits her newest customer. Once a respected healer, Nella now uses her knowledge for a darker purpose - selling well-disguised poisons to desperate women who would kill to be free of the men in their lives. But when her new patron turns out to be a precocious twelve-year-old named Eliza Fanning, an unexpected friendship sets in motion a string of events that jeopardizes Nella’s world and threatens to expose the many women whose names are written in her register.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593013000i/53288434.jpg",
+      "rating": {
+        "stars": {
+          "five": 23,
+          "four": 39,
+          "three": 27,
+          "two": 7,
+          "one": 1
+        },
+        "rate": 3.67,
+        "count": "293,567"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 12,
+      "name": "The Wicked King",
+      "author": "Holly Black",
+      "price": 20.95,
+      "description": "After the jaw-dropping revelation that Oak is the heir to Faerie, Jude must keep her brother safe. To do so, she has bound the wicked king, Cardan, to her, and made herself the power behind the throne. Navigating the constantly shifting political alliances of Faerie would be difficult enough if Cardan were easy to control. But he does everything in his power to humiliate and undermine her even as his fascination with her remains undiminished.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1520620414i/26032887.jpg",
+      "rating": {
+        "stars": {
+          "five": 49,
+          "four": 36,
+          "three": 11,
+          "two": 1,
+          "one": 1
+        },
+        "rate": 4.33,
+        "count": "561,164"
+      },
+      "bestseller": true,
+      "discount": 40,
+      "trending": false
+    },
+    {
+      "id": 13,
+      "name": "The Queen of Nothing",
+      "author": "Holly Black",
+      "price": 20.95,
+      "description": "Power is much easier to acquire than it is to hold onto. Jude learned this lesson when she released her control over the wicked king, Cardan, in exchange for immeasurable power.Now as the exiled mortal Queen of Faerie, Jude is powerless and left reeling from Cardan’s betrayal. She bides her time determined to reclaim everything he took from her. Opportunity arrives in the form of her deceptive twin sister, Taryn, whose mortal life is in peril.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553624975i/26032912.jpg",
+      "rating": {
+        "stars": {
+          "five": 53,
+          "four": 33,
+          "three": 11,
+          "two": 1,
+          "one": 1
+        },
+        "rate": 4.37,
+        "count": "502,289"
+      }
+    },
+    {
+      "id": 14,
+      "name": "The Cruel Prince",
+      "author": "Holly Black",
+      "price": 20.99,
+      "description": "Jude was seven when her parents were murdered and she and her two sisters were stolen away to live in the treacherous High Court of Faerie. Ten years later, Jude wants nothing more than to belong there, despite her mortality. But many of the fey despise humans. Especially Prince Cardan, the youngest and wickedest son of the High King.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574535986i/26032825.jpg",
+      "rating": {
+        "stars": {
+          "five": 39,
+          "four": 36,
+          "three": 17,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 4.08,
+        "count": "909,225"
+      },
+      "trending": true
+    },
+    {
+      "id": 15,
+      "name": "Kafka on the Shore",
+      "author": "Haruki Murakami",
+      "price": 19.95,
+      "description": "Kafka on the Shore, a tour de force of metaphysical reality, is powered by two remarkable characters: a teenage boy, Kafka Tamura, who runs away from home either to escape a gruesome oedipal prophecy or to search for his long-missing mother and sister; and an aging simpleton called Nakata, who never recovered from a wartime affliction and now is drawn toward Kafka for reasons that, like the most basic activities of daily life, he cannot fathom. Their odyssey, as mysterious to them as it is to us, is enriched throughout by vivid accomplices and mesmerizing events. Cats and people carry on conversations.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1429638085i/4929.jpg",
+      "rating": {
+        "stars": {
+          "five": 41,
+          "four": 38,
+          "three": 13,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.14,
+        "count": "425,386"
+      },
+      "bestseller": true,
+      "discount": 20,
+      "trending": true
+    },
+    {
+      "id": 16,
+      "name": "Vicious",
+      "author": "V.E. Schwab",
+      "price": 9.95,
+      "description": "Victor and Eli started out as college roommates—brilliant, arrogant, lonely boys who recognized the same sharpness and ambition in each other. In their senior year, a shared research interest in adrenaline, near-death experiences, and seemingly supernatural events reveals an intriguing possibility: that under the right conditions, someone could develop extraordinary abilities. But when their thesis moves from the academic to the experimental, things go horribly wrong.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670752670i/40874032.jpg",
+      "rating": {
+        "stars": {
+          "five": 45,
+          "four": 36,
+          "three": 13,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.23,
+        "count": "199,358"
+      },
+      "discount": 40,
+      "trending": true
+    },
+    {
+      "id": 17,
+      "name": "Outlander",
+      "author": "Diana Gabaldon",
+      "price": 29.95,
+      "description": "The year is 1945. Claire Randall, a former combat nurse, is just back from the war and reunited with her husband on a second honeymoon when she walks through a standing stone in one of the ancient circles that dot the British Isles. Suddenly she is a Sassenach—an “outlander”—in a Scotland torn by war and raiding border clans in the year of Our Lord...1743.",
+      "Genre": "fantasy",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659086907i/10964.jpg",
+      "rating": {
+        "stars": {
+          "five": 55,
+          "four": 25,
+          "three": 11,
+          "two": 4,
+          "one": 3
+        },
+        "rate": 4.25,
+        "count": "991,233"
+      },
+      "discount": 10
+    },
+    {
+      "id": 18,
+      "name": "Hunter x Hunter",
+      "author": "Yoshihiro Togashi",
+      "price": 225.95,
+      "description": "Hunters are a special breed, dedicated to tracking down treasures, magical beasts, and even other people. But such pursuits require a license, and less than one in a hundred thousand can pass the grueling qualification exam. Those who do pass gain access to restricted areas, amazing stores of information, and the right to call themselves Hunters.",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584822437i/1493253.jpg",
+      "rating": {
+        "stars": {
+          "five": 68,
+          "four": 20,
+          "three": 8,
+          "two": 1,
+          "one": 1
+        },
+        "rate": 4.53,
+        "count": "49,820"
+      },
+      "bestseller": true,
+      "discount": 20,
+      "trending": true
+    },
+    {
+      "id": 19,
+      "name": "Dragon Ball",
+      "author": "Akira Toriyama",
+      "price": 225.95,
+      "description": "Before there was Dragon Ball Z, there was Akira Toriyama's action epic Dragon Ball, starring the younger version of Son Goku and all the other Dragon Ball Z heroes! Meet a naive young monkey-tailed boy named Goku, whose quiet life changes when he meets Bulma, a girl who is on a quest to collect seven , If she gathers them all, an incredibly powerful dragon will appear and grant her one wish. But the precious orbs are scattered all over the world, and Bulma needs Goku's help (and his super-strength)! With a magic staff for a weapon and a flying cloud for a ride, Goku sets out on the adventure of a lifetime.",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442541694i/969275.jpg",
+      "rating": {
+        "stars": {
+          "five": 65,
+          "four": 19,
+          "three": 10,
+          "two": 2,
+          "one": 2
+        },
+        "rate": 4.43,
+        "count": "48,848"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 20,
+      "name": "Naruto",
+      "author": "Masashi Kishimoto",
+      "price": 225.95,
+      "description": "Twelve years ago the Village Hidden in the Leaves was attacked by a fearsome threat. A nine-tailed fox spirit claimed the life of the village leader, the Hokage, and many others. Today, the village is at peace, and a troublemaking kid named Naruto is struggling to graduate from Ninja Academy. His goal may be to become Hokage, but his true destiny will be much more complicated. The adventure begins now!",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1435524806i/204042.jpg",
+      "rating": {
+        "stars": {
+          "five": 53,
+          "four": 28,
+          "three": 12,
+          "two": 3,
+          "one": 2
+        },
+        "rate": 4.41,
+        "count": "194,497"
+      },
+      "bestseller": false,
+      "discount": 20,
+      "trending": false
+    },
+    {
+      "id": 21,
+      "name": "Attack on Titan",
+      "author": "Hajime Isayama",
+      "price": 325.95,
+      "description": "For the past century, what's left of mankind has hidden in a giant, three-walled city, trapped in fear of the bizarre, giant humanoids known as the Titans. Little is known about where they came from or why they are bent on consuming humankind, but the sudden appearance of an enormous Titan is about to change everything.",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432712438i/13154150.jpg",
+      "rating": {
+        "stars": {
+          "five": 65,
+          "four": 22,
+          "three": 8,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.47,
+        "count": "216,910"
+      },
+      "bestseller": false,
+      "discount": 20,
+      "trending": true
+    },
+    {
+      "id": 22,
+      "name": "Bleach",
+      "author": "Tite Kubo",
+      "price": 225.95,
+      "description": "Ichigo Kurosaki never asked for the ability to see ghosts—he was born with the gift. When his family is attacked by a Hollow—a malevolent lost soul—Ichigo becomes a Soul Reaper, dedicating his life to protecting the innocent and helping the tortured spirits themselves find peace. Find out why Tite Kubo’s Bleach has become an international manga smash-hit!",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388508611i/2880.jpg",
+      "rating": {
+        "stars": {
+          "five": 54,
+          "four": 24,
+          "three": 15,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.25,
+        "count": "169,321"
+      },
+      "bestseller": false,
+      "discount": 30,
+      "trending": false
+    },
+    {
+      "id": 23,
+      "name": "Fairy Tail",
+      "author": "Hiro Mashima",
+      "price": 125.95,
+      "description": "Celestial wizard Lucy wants to join the Fairy Tail, a club for the most powerful wizards. But instead, her ambitions land her in the clutches of a gang of unsavory pirates led by a devious magician. Her only hope is Natsu, a strange boy she happens to meet on her travels. Natsu's not your typical hero, he gets motion sickness, eats like a pig, and his best friend is a talking cat. With friends like this, is Lucy better off with her enemies?",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1389303619i/2454986.jpg",
+      "rating": {
+        "stars": {
+          "five": 61,
+          "four": 21,
+          "three": 11,
+          "two": 3,
+          "one": 2
+        },
+        "rate": 4.36,
+        "count": "112,985"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 24,
+      "name": "Blue Exorcist",
+      "author": "Kazue Kato",
+      "price": 225.95,
+      "description": "Raised by Father Fujimoto, a famous exorcist, Rin Okumura never knew his real father. One day a fateful argument with Father Fujimoto forces Rin to face a terrible truth – the blood of the demon lord Satan runs in Rin's veins! Rin swears to defeat Satan, but doing that means entering the mysterious True Cross Academy and becoming an exorcist himself. Can Rin fight demons and keep his infernal bloodline a secret? It won't be easy, especially when drawing his father's sword releases the demonic power within him!",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432642113i/9876989.jpg",
+      "rating": {
+        "stars": {
+          "five": 58,
+          "four": 24,
+          "three": 12,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.36,
+        "count": "70,948"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 25,
+      "name": "Tokyo Ghoul",
+      "author": "Sui Ishida",
+      "price": 225.95,
+      "description": "À Tokyo, sévissent des goules, monstres cannibales se dissimulant parmi les humains pour mieux s’en nourrir. Étudiant timide, Ken Kaneki est plus intéressé par la jolie fille qui partage ses goûts pour la lecture que par ces affaires sordides, jusqu’au jour où il se fait attaquer par l’une de ces fameuses créatures. Mortellement blessé, il survit grâce à la greffe des organes de son agresseur… Remis de son opération, il réalise peu à peu qu’il est devenu incapable de se nourrir comme avant et commence à ressentir un appétit suspect envers ses congénères. C’est le début d’une descente aux enfers pour Kaneki, devenu malgré lui un hybride mi-humain, mi-goule.",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1381715006i/18667307.jpg",
+      "rating": {
+        "stars": {
+          "five": 60,
+          "four": 24,
+          "three": 10,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.42,
+        "count": "130,697"
+      },
+      "bestseller": false,
+      "discount": 20,
+      "trending": false
+    },
+    {
+      "id": 26,
+      "name": "Death Note",
+      "author": "Tsugumi Ohba",
+      "price": 325.95,
+      "description": "Light Yagami is an ace student with great prospects - and he's bored out of his mind. But all that changes when he finds the Death Note, a notebook dropped by a rogue Shinigami, a death god. Any human whose name is written in the notebook dies, and now Light has vowed to use the power of the Death Note to rid the world of evil. But when criminals begin dropping dead, the authorities send the legendary detective L to track down the killer. With L hot on his heels, will Light lose sight of his noble goal... or his life?",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1419952134i/13615.jpg",
+      "rating": {
+        "stars": {
+          "five": 63,
+          "four": 23,
+          "three": 8,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.46,
+        "count": "277,379"
+      },
+      "bestseller": true,
+      "discount": 10,
+      "trending": false
+    },
+    {
+      "id": 27,
+      "name": "One Piece",
+      "author": "Eiichiro Oda",
+      "price": 425.95,
+      "description": "A new shonen sensation in Japan, this series features Monkey D. Luffy, whose main ambition is to become a pirate. Eating the Gum-Gum Fruit gives him strange powers but also invokes the fruit's curse: anybody who consumes it can never learn to swim. Nevertheless, Monkey and his crewmate Roronoa Zoro, master of the three-sword fighting style, sail the Seven Seas of swashbuckling adventure in search of the elusive treasure",
+      "Genre": "manga",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1318523719i/1237398.jpg",
+      "rating": {
+        "stars": {
+          "five": 67,
+          "four": 19,
+          "three": 9,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.47,
+        "count": "124,955"
+      },
+      "bestseller": true,
+      "discount": 20,
+      "trending": false
+    },
+    {
+      "id": 28,
+      "name": "The Silent Patient",
+      "author": "Alex Michaelides",
+      "price": 25.95,
+      "description": "Alicia Berenson’s life is seemingly perfect. A famous painter married to an in-demand fashion photographer, she lives in a grand house with big windows overlooking a park in one of London’s most desirable areas. One evening her husband Gabriel returns home late from a fashion shoot, and Alicia shoots him five times in the face, and then never speaks another word.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668782119i/40097951.jpg",
+      "rating": {
+        "stars": {
+          "five": 42,
+          "four": 37,
+          "three": 15,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.18,
+        "count": "1,537,334"
+      },
+      "bestseller": true,
+      "trending": true
+    },
+    {
+      "id": 29,
+      "name": "Verity",
+      "author": "Colleen Hoover",
+      "price": 15.95,
+      "description": "Lowen arrives at the Crawford home, ready to sort through years of Verity's notes and outlines, hoping to find enough material to get her started. What Lowen doesn't expect to uncover in the chaotic office is an unfinished autobiography Verity never intended for anyone to read. Page after page of bone-chilling admissions, including Verity's recollection of what really happened the day her daughter died.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1634158558i/59344312.jpg",
+      "rating": {
+        "stars": {
+          "five": 57,
+          "four": 27,
+          "three": 10,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.36,
+        "count": "1,871,517"
+      },
+      "bestseller": false,
+      "discount": 20,
+      "trending": false
+    },
+    {
+      "id": 30,
+      "name": "The Maidens",
+      "author": "Alex Michaelides",
+      "price": 15.95,
+      "description": "Mariana, who was once herself a student at the university, quickly suspects that behind the idyllic beauty of the spires and turrets, and beneath the ancient traditions, lies something sinister. And she becomes convinced that, despite his alibi, Edward Fosca is guilty of the murder. But why would the professor target one of his students? And why does he keep returning to the rites of Persephone, the maiden, and her journey to the underworld?",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608557750i/45300567.jpg",
+      "rating": {
+        "stars": {
+          "five": 19,
+          "four": 37,
+          "three": 30,
+          "two": 9,
+          "one": 2
+        },
+        "rate": 3.63,
+        "count": "257,910"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 31,
+      "name": "The Lucifer Effect",
+      "author": "Philip G. Zimbardo",
+      "price": 5.95,
+      "description": "Philip Zimbardo nevét a stanfordi börtönkísérlet tette ismertté, s ez a kísérlet késztette őt arra, hogy feltegye azt a kérdést, amelyik tudományos pályája során mindvégig foglalkoztatta:Vajon mitől válnak teljesen normális, hétköznapi emberek egyszerre végtelenül kegyetlenné? Hogyan fordulhat elő, hogy bizonyos körülmények között ezek a teljesen normális, hétköznapi emberek megkínozzák, akár meg is ölik a nekik mit sem ártó, teljesen normális, hétköznapi embertársaikat?",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388365513i/359194.jpg",
+      "rating": {
+        "stars": {
+          "five": 34,
+          "four": 35,
+          "three": 21,
+          "two": 6,
+          "one": 3
+        },
+        "rate": 3.92,
+        "count": "22,848 "
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 32,
+      "name": "The Happiness Hypothesis",
+      "author": "Jonathan Haidt",
+      "price": 15.95,
+      "description": "In his widely praised book, award-winning psychologist Jonathan Haidt examines the world’s philosophical wisdom through the lens of psychological science, showing how a deeper understanding of enduring maxims-like Do unto others as you would have others do unto you, or What doesn’t kill you makes you stronger-can enrich and even transform our lives.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348779688i/96884.jpg",
+      "rating": {
+        "stars": {
+          "five": 41,
+          "four": 35,
+          "three": 16,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.1,
+        "count": "36,731"
+      },
+      "bestseller": false,
+      "discount": 20,
+      "trending": false
+    },
+    {
+      "id": 33,
+      "name": "Upstream",
+      "author": "Dan Heath",
+      "price": 10.95,
+      "description": "So often in life, we get stuck in a cycle of response. We put out fires. We deal with emergencies. We stay downstream, handling one problem after another, but we never make our way upstream to fix the systems that caused the problems ...probes the psychological forces that push us downstream--including problem blindness, which can leave us oblivious to serious problems in our midst. And Heath introduces us to the thinkers who have overcome these obstacles and scored ... victories by switching to an upstream mindset.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571690412i/48549702.jpg",
+      "rating": {
+        "stars": {
+          "five": 38,
+          "four": 43,
+          "three": 16,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.16,
+        "count": "5,304"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 34,
+      "name": "Noise",
+      "author": "Daniel Kahneman",
+      "price": 9.95,
+      "description": "In Noise, Daniel Kahneman, Cass R. Sunstein, and Olivier Sibony show how noise contributes significantly to errors in all fields, including medicine, law, economic forecasting, police behavior, food safety, bail, security checks at airports, strategy, and personnel selection. And although noise can be found wherever people make judgments and decisions, individuals and organizations alike are commonly oblivious to the role of chance in their judgments and in their actions.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617709587i/55339408.jpg",
+      "rating": {
+        "stars": {
+          "five": 21,
+          "four": 35,
+          "three": 30,
+          "two": 9,
+          "one": 2
+        },
+        "rate": 3.66,
+        "count": "10,009"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 35,
+      "name": "The Psychopath Test",
+      "author": "Jon Ronson",
+      "price": 15.95,
+      "description": "The Psychopath Test is a fascinating journey through the minds of madness. Jon Ronson's exploration of a potential hoax being played on the world's top neurologists takes him, unexpectedly, into the heart of the madness industry. An influential psychologist who is convinced that many important CEOs and politicians are, in fact, psychopaths teaches Ronson how to spot these high-flying individuals by looking out for little telltale verbal and nonverbal clues. And so Ronson, armed with his new psychopath-spotting abilities, enters the corridors of power. He spends time with a death-squad leader institutionalized for mortgage fraud in Coxsackie, New York; a legendary CEO whose psychopathy has been speculated about in the press; and a patient in an asylum for the criminally insane who insists he's sane and certainly not a psychopath.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1364166270i/12391521.jpg",
+      "rating": {
+        "stars": {
+          "five": 31,
+          "four": 40,
+          "three": 21,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 3.95,
+        "count": "142,805"
+      },
+      "bestseller": true,
+      "discount": 10,
+      "trending": false
+    },
+    {
+      "id": 36,
+      "name": "The Oracle of Night",
+      "author": "Sidarta Ribeiro",
+      "price": 7.95,
+      "description": "What really makes a dream, why do we have them, and how do they affect us? Sidarta Ribeiro takes these questions and uses them as a springboard for his completely fresh and enthralling study of dreams, tracing them all the way back to our ancient ancestors. It’s in the earliest cave paintings that Ribeiro finds the first traces of human dreams and begins unlocking revolutionary conclusions about the role of dreams in human evolution.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1629427966i/58812994.jpg",
+      "rating": {
+        "stars": {
+          "five": 37,
+          "four": 39,
+          "three": 17,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 4.07,
+        "count": "530"
+      },
+      "bestseller": false,
+      "discount": 30,
+      "trending": false
+    },
+    {
+      "id": 37,
+      "name": "Blink",
+      "author": "Malcolm Gladwell",
+      "price": 15.95,
+      "description": "In Blink we meet the psychologist who has learned to predict whether a marriage will last, based on a few minutes of observing a couple; the tennis coach who knows when a player will double-fault before the racket even makes contact with the ball; the antiquities experts who recognize a fake at a glance. Here, too, are great failures of blink: the election of Warren Harding; New Coke; and the shooting of Amadou Diallo by police. Blink reveals that great decision makers aren't those who process the most information or spend the most time deliberating, but those who have perfected the art of thin-slicing - filtering the very few factors that matter from an overwhelming number of variables.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440763417i/40102.jpg",
+      "rating": {
+        "stars": {
+          "five": 33,
+          "four": 37,
+          "three": 21,
+          "two": 5,
+          "one": 1
+        },
+        "rate": 3.96,
+        "count": "570,613"
+      },
+      "bestseller": true,
+      "discount": 30,
+      "trending": false
+    },
+    {
+      "id": 38,
+      "name": "The Psychology of Pandemics",
+      "author": "Steven Taylor",
+      "price": 8.95,
+      "description": "Pandemics are large-scale epidemics that spread throughout world. Virologists predict that the next pandemic could occur in the coming years, probably from some form of influenza, with potentially devastating consequences. Vaccinations, if available, and behavioral methods are vital for stemming the spread of infection. However, remarkably little attention has been devoted to the psychological factors that influence the spread of pandemic infection and the associated emotional distress and social disruption. Psychological factors are important for many reasons.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584106153i/48722093.jpg",
+      "rating": {
+        "stars": {
+          "five": 36,
+          "four": 39,
+          "three": 20,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.06,
+        "count": "201"
+      },
+      "bestseller": false,
+      "discount": 20,
+      "trending": false
+    },
+    {
+      "id": 39,
+      "name": "Flow",
+      "author": "Mihaly Csikszentmihalyi",
+      "price": 15.95,
+      "description": "Psychologist Mihaly Csikszentmihalyi's investigations of optimal experience have revealed that what makes an experience genuinely satisfying is a state of consciousness called flow. During flow, people typically experience deep enjoyment, creativity, and a total involvement with life. Csikszentmihalyi demonstrates the ways this positive state can be controlled, not just left to chance. Flow: The Psychology of Optimal Experience teaches how, by ordering the information that enters our consciousness, we can discover true happiness, unlock our potential, and greatly improve the quality of our lives.",
+      "Genre": "psychology",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432253110i/66354.jpg",
+      "rating": {
+        "stars": {
+          "five": 42,
+          "four": 34,
+          "three": 16,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 4.1,
+        "count": "74,404"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 40,
+      "name": "Gone Girl",
+      "author": "Gillian Flynn",
+      "price": 18.95,
+      "description": "These are the questions Nick Dunne finds himself asking on the morning of his fifth wedding anniversary when his wife Amy suddenly disappears. The police suspect Nick. Amy's friends reveal that she was afraid of him, that she kept secrets from him. He swears it isn't true. A police examination of his computer shows strange searches. He says they weren't made by him. And then there are the persistent calls on his mobile phone.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043.jpg",
+      "rating": {
+        "stars": {
+          "five": 42,
+          "four": 35,
+          "three": 15,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.12,
+        "count": "2,877,147"
+      },
+      "bestseller": false,
+      "discount": 30,
+      "trending": false
+    },
+    {
+      "id": 41,
+      "name": "The Girl on the Train",
+      "author": "Paula Hawkins",
+      "price": 18.95,
+      "description": "Rachel catches the same commuter train every morning. She knows it will wait at the same signal each time, overlooking a row of back gardens. She’s even started to feel like she knows the people who live in one of the houses. Jess and Jason, she calls them. Their life—as she sees it—is perfect. If only Rachel could be that happy. And then she sees something shocking. It’s only a minute until the train moves on, but it’s enough. Now everything’s changed. Now Rachel has a chance to become a part of the lives she’s only watched from afar. Now they’ll see; she’s much more than just the girl on the train...",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1574805682i/22557272.jpg",
+      "rating": {
+        "stars": {
+          "five": 33,
+          "four": 37,
+          "three": 20,
+          "two": 5,
+          "one": 2
+        },
+        "rate": 3.95,
+        "count": "2,732,116"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 42,
+      "name": "The Lovely Bones",
+      "author": "Alice Sebold",
+      "price": 15.95,
+      "description": "So begins the story of Susie Salmon, who is adjusting to her new home in heaven, a place that is not at all what she expected, even as she is watching life on earth continue without her -- her friends trading rumors about her disappearance, her killer trying to cover his tracks, her grief-stricken family unraveling. Out of unspeakable tragedy and loss, The Lovely Bones succeeds, miraculously, in building a tale filled with hope, humor, suspense, even joy.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1457810586i/12232938.jpg",
+      "rating": {
+        "stars": {
+          "five": 31,
+          "four": 35,
+          "three": 22,
+          "two": 7,
+          "one": 3
+        },
+        "rate": 3.84,
+        "count": "2,268,772"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 43,
+      "name": "Sharp Objects",
+      "author": "Gillian Flyn",
+      "price": 17.95,
+      "description": "Fresh from a brief stay at a psych hospital, reporter Camille Preaker faces a troubling assignment: she must return to her tiny hometown to cover the unsolved murder of a preteen girl and the disappearance of another. For years, Camille has hardly spoken to her neurotic, hypochondriac mother or to the half-sister she barely knows: a beautiful thirteen-year-old with an eerie grip on the town. Now, installed in her old bedroom in her family's Victorian mansion, Camille finds herself identifying with the young victims—a bit too strongly. Dogged by her own demons, she must unravel the psychological puzzle of her own past if she wants to get the story—and survive this homecoming.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1475695315i/18045891.jpg",
+      "rating": {
+        "stars": {
+          "five": 34,
+          "four": 39,
+          "three": 19,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.01,
+        "count": "930,801"
+      },
+      "bestseller": false,
+      "discount": 50,
+      "trending": false
+    },
+    {
+      "id": 44,
+      "name": "Into the Water",
+      "author": "Paula Hawkins",
+      "price": 18.95,
+      "description": "A single mother turns up dead at the bottom of the river that runs through town. Earlier in the summer, a vulnerable teenage girl met the same fate. They are not the first women lost to these dark waters, but their deaths disturb the river and its history, dredging up secrets long submerged.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1494055413i/33151805.jpg",
+      "rating": {
+        "stars": {
+          "five": 18,
+          "four": 36,
+          "three": 33,
+          "two": 9,
+          "one": 2
+        },
+        "rate": 3.59,
+        "count": "364,913"
+      },
+      "bestseller": false,
+      "discount": 40,
+      "trending": false
+    },
+    {
+      "id": 45,
+      "name": "Dark Places",
+      "author": "Gillian Flynn",
+      "price": 19.95,
+      "description": "Since then, she has been drifting. But when she is contacted by a group who are convinced of Ben's innocence, Libby starts to ask questions she never dared to before. Was the voice she heard her brother's? Ben was a misfit in their small town, but was he capable of murder? Are there secrets to uncover at the family farm or is Libby deluding herself because she wants her brother back?",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354988288i/5886881.jpg",
+      "rating": {
+        "stars": {
+          "five": 30,
+          "four": 40,
+          "three": 22,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 3.95,
+        "count": "702,196"
+      },
+      "bestseller": true,
+      "trending": false
+    },
+    {
+      "id": 46,
+      "name": "Pretty Girls",
+      "author": "Karin Slaughter",
+      "price": 10.95,
+      "description": "Twenty years ago Claire Scott's eldest sister, Julia, went missing. No one knew where she went - no note, no body. It was a mystery that was never solved and it tore her family apart.Now another girl has disappeared, with chilling echoes of the past. And it seems that she might not be the only one.Claire is convinced Julia's disappearance is linked.But when she begins to learn the truth about her sister, she is confronted with a shocking discovery, and nothing will ever be the same...",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1432205734i/25574782.jpg",
+      "rating": {
+        "stars": {
+          "five": 37,
+          "four": 38,
+          "three": 17,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.04,
+        "count": "280,568"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 47,
+      "name": "The Perfect Marriage",
+      "author": "Jeneva Rose",
+      "price": 18.95,
+      "description": "Sarah Morgan is a successful and powerful defense attorney in Washington D.C. At 33 years old, she is a named partner at her firm and life is going exactly how she planned.The same cannot be said for her husband, Adam. He is a struggling writer who has had little success in his career. He begins to tire of his and Sarah’s relationship as she is constantly working.Out in the secluded woods, at Adam and Sarah’s second home, Adam engages in a passionate affair with Kelly Summers.Then, one morning everything changes. Adam is arrested for Kelly’s murder. She had been found stabbed to death in Adam and Sarah’s second home.Sarah soon finds herself playing the defender for her own husband, a man accused of murdering his mistress.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1593388297i/53450790.jpg",
+      "rating": {
+        "stars": {
+          "five": 38,
+          "four": 34,
+          "three": 17,
+          "two": 6,
+          "one": 2
+        },
+        "rate": 4.01,
+        "count": "345,037"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 48,
+      "name": "One By One",
+      "author": "Freida McFadden",
+      "price": 8.95,
+      "description": "She thought this would be a break from the stresses of work and raising her young children. A chance to repair her damaged marriage. A week of hiking and hot tubs with two other couple friends. It sounded like heaven.Then Claire’s minivan breaks down on a lonely dirt road. With no cell reception, the group has no choice but to hike the rest of the way to their hotel. But it turns out the woods aren’t as easy to navigate as they thought.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1592705582i/54197718.jpg",
+      "rating": {
+        "stars": {
+          "five": 40,
+          "four": 36,
+          "three": 17,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.13,
+        "count": "43,251"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 49,
+      "name": "Mad Honey",
+      "author": "Jodi Picoult",
+      "price": 18.95,
+      "description": "Olivia McAfee knows what it feels like to start over. Her picture-perfect life—living in Boston, married to a brilliant cardiothoracic surgeon, raising a beautiful son, Asher—was upended when her husband revealed a darker side. She never imagined she would end up back in her sleepy New Hampshire hometown, living in the house she grew up in, and taking over her father's beekeeping business.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642705453i/59912428.jpg",
+      "rating": {
+        "stars": {
+          "five": 40,
+          "four": 40,
+          "three": 14,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.17,
+        "count": "169,702"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 50,
+      "name": "The Maid",
+      "author": "Steven Taylor",
+      "price": 10.95,
+      "description": "Since Gran died a few months ago, twenty-five-year-old Molly has been navigating life's complexities all by herself. No matter—she throws herself with gusto into her work as a hotel maid. Her unique character, along with her obsessive love of cleaning and proper etiquette, make her an ideal fit for the job. She delights in donning her crisp uniform each morning, stocking her cart with miniature soaps and bottles, and returning guest rooms at the Regency Grand Hotel to a state of perfection.",
+      "Genre": "crime",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1643228739i/55196813.jpg",
+      "rating": {
+        "stars": {
+          "five": 24,
+          "four": 42,
+          "three": 25,
+          "two": 6,
+          "one": 1
+        },
+        "rate": 3.82,
+        "count": "353,126"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 51,
+      "name": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "price": 18.95,
+      "description": "Raskolnikov, a destitute and desperate former student, wanders through the slums of St Petersburg and commits a random murder without remorse or regret. He imagines himself to be a great man, a Napoleon: acting for a higher purpose beyond conventional moral law. But as he embarks on a dangerous game of cat and mouse with a suspicious police investigator, Raskolnikov is pursued by the growing voice of his conscience and finds the noose of his own guilt tightening around his neck. Only Sonya, a downtrodden sex worker, can offer the chance of redemption.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144.jpg",
+      "rating": {
+        "stars": {
+          "five": 51,
+          "four": 29,
+          "three": 12,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.26,
+        "count": "821,666"
+      },
+      "bestseller": true,
+      "trending": false
+    },
+    {
+      "id": 52,
+      "name": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "price": 25.95,
+      "description": "The Brothers Karamazov is a murder mystery, a courtroom drama, and an exploration of erotic rivalry in a series of triangular love affairs involving the wicked and sentimental Fyodor Pavlovich Karamazov and his three sons―the impulsive and sensual Dmitri; the coldly rational Ivan; and the healthy, red-cheeked young novice Alyosha. Through the gripping events of their story, Dostoevsky portrays the whole of Russian life, is social and spiritual striving, in what was both the golden age and a tragic turning point in Russian culture.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1427728126i/4934.jpg",
+      "rating": {
+        "stars": {
+          "five": 56,
+          "four": 27,
+          "three": 11,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.36,
+        "count": "305,138"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 53,
+      "name": "The Idiot",
+      "author": "Fyodor Dostoevsky",
+      "price": 25.95,
+      "description": "Returning to Russia from a sanitarium in Switzerland, the Christ-like epileptic Prince Myshkin finds himself enmeshed in a tangle of love, torn between two women—the notorious kept woman Nastasya and the pure Aglaia—both involved, in turn, with the corrupt, money-hungry Ganya. In the end, Myshkin’s honesty, goodness, and integrity are shown to be unequal to the moral emptiness of those around him. In her revision of the Garnett translation, Anna Brailovsky has corrected inaccuracies wrought by Garnett’s drastic anglicization of the novel, restoring as much as possible the syntactical structure of the original story.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1657539107i/12505.jpg",
+      "rating": {
+        "stars": {
+          "five": 46,
+          "four": 34,
+          "three": 15,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.2,
+        "count": "167,283"
+      },
+      "bestseller": true,
+      "trending": false
+    },
+    {
+      "id": 54,
+      "name": "White Nights",
+      "author": "Fyodor Dostoevsky",
+      "price": 18.95,
+      "description": "White Nights is a short story by Fyodor Dostoevsky that was published in 1848. Set in St. Petersburg, it is the story of a young man fighting his inner restlessness. A light and tender narrative, it delves into the torment and guilt of unrequited love. Both protagonists suffer from a deep sense of alienation that initially brings them together. A blend of romanticism and realism, the story appeals gently to the senses and feelings.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1450699039i/1772910.jpg",
+      "rating": {
+        "stars": {
+          "five": 34,
+          "four": 38,
+          "three": 20,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 4.01,
+        "count": "101,144"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 55,
+      "name": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "price": 17.95,
+      "description": "Since its immediate success in 1813, Pride and Prejudice has remained one of the most popular novels in the English language. Jane Austen called this brilliant work her own darling child and its vivacious heroine, Elizabeth Bennet, as delightful a creature as ever appeared in print. The romantic clash between the opinionated Elizabeth and her proud beau, Mr. Darcy, is a splendid performance of civilized sparring. And Jane Austen's radiant wit sparkles as her characters dance a delicate quadrille of flirtation and intrigue, making this book the most superb comedy of manners of Regency England.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885.jpg",
+      "rating": {
+        "stars": {
+          "five": 54,
+          "four": 27,
+          "three": 12,
+          "two": 3,
+          "one": 2
+        },
+        "rate": 4.28,
+        "count": "3,947,663"
+      },
+      "bestseller": true,
+      "discount": 10,
+      "trending": false
+    },
+    {
+      "id": 56,
+      "name": "Sense and Sensibility",
+      "author": "Jane Austen",
+      "price": 15.95,
+      "description": "Marianne Dashwood wears her heart on her sleeve, and when she falls in love with the dashing but unsuitable John Willoughby she ignores her sister Elinor's warning that her impulsive behaviour leaves her open to gossip and innuendo. Meanwhile Elinor, always sensitive to social convention, is struggling to conceal her own romantic disappointment, even from those closest to her. Through their parallel experience of love—and its threatened loss—the sisters learn that sense must mix with sensibility if they are to find personal happiness in a society where status and money govern the rules of love.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1397245675i/14935.jpg",
+      "rating": {
+        "stars": {
+          "five": 40,
+          "four": 34,
+          "three": 17,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.08,
+        "count": "1,130,773"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 57,
+      "name": "Emma",
+      "author": "Jane Austen",
+      "price": 10.95,
+      "description": "Emma Woodhouse is one of Austen's most captivating and vivid characters. Beautiful, spoilt, vain and irrepressibly witty, Emma organizes the lives of the inhabitants of her sleepy little village and plays matchmaker with devastating effect.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1373627931i/6969.jpg",
+      "rating": {
+        "stars": {
+          "five": 38,
+          "four": 35,
+          "three": 19,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.04,
+        "count": "824,051"
+      },
+      "bestseller": false,
+      "trending": true
+    },
+    {
+      "id": 58,
+      "name": "Persuasion",
+      "author": "Jane Austen",
+      "price": 13.95,
+      "description": "Persuasion is Jane Austen's last completed novel. She began it soon after she had finished Emma, completing it in August 1816. She died, aged 41, in 1817; Persuasion was published in December that year (but dated 1818). Persuasion is linked to Northanger Abbey not only by the fact that the two books were originally bound up in one volume and published together, but also because both stories are set partly in Bath, a fashionable city with which Austen was well acquainted, having lived there from 1801 to 1805.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1385172413i/2156.jpg",
+      "rating": {
+        "stars": {
+          "five": 44,
+          "four": 33,
+          "three": 16,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.15,
+        "count": "654,165"
+      },
+      "bestseller": false,
+      "discount": 10,
+      "trending": false
+    },
+    {
+      "id": 59,
+      "name": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "price": 18.95,
+      "description": "The Great Gatsby, F. Scott Fitzgerald's third book, stands as the supreme achievement of his career. This exemplary novel of the Jazz Age has been acclaimed by generations of readers. The story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan, of lavish parties on Long Island at a time when The New York Times noted gin was the national drink the national obsession, it is an exquisitely crafted tale of America in the 1920s.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490528560i/4671.jpg",
+      "rating": {
+        "stars": {
+          "five": 35,
+          "four": 33,
+          "three": 21,
+          "two": 6,
+          "one": 2
+        },
+        "rate": 3.93,
+        "count": "4,843,990"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 60,
+      "name": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "price": 18.95,
+      "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it. To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657.jpg",
+      "rating": {
+        "stars": {
+          "five": 52,
+          "four": 29,
+          "three": 13,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.27,
+        "count": "5,695,816"
+      },
+      "bestseller": true,
+      "trending": false
+    },
+    {
+      "id": 61,
+      "name": "The Stranger",
+      "author": "Albert Camus",
+      "price": 12.95,
+      "description": "Published in 1942 by French author Albert Camus, The Stranger has long been considered a classic of twentieth-century literature. Le Monde ranks it as number one on its 100 Books of the Century list. Through this story of an ordinary man unwittingly drawn into a senseless murder on a sundrenched Algerian beach, Camus explores what he termed the nakedness of man faced with the absurd.",
+      "Genre": "classics",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1590930002i/49552.jpg",
+      "rating": {
+        "stars": {
+          "five": 18,
+          "four": 36,
+          "three": 33,
+          "two": 9,
+          "one": 2
+        },
+        "rate": 4.01,
+        "count": "962,322"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 62,
+      "name": "Daisy Jones & The Six",
+      "author": "Taylor Reid",
+      "price": 14.95,
+      "description": "SOON TO BE AN AMAZON PRIME TV SERIES STARRING SAM CLAFLIN, RILEY KEOUGH AND CAMILA MORRONE",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580255154i/40597810.jpg",
+      "rating": {
+        "stars": {
+          "five": 45,
+          "four": 36,
+          "three": 13,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.24,
+        "count": "1,105,566"
+      },
+      "bestseller": false,
+      "discount": 10,
+      "trending": false
+    },
+    {
+      "id": 63,
+      "name": "It Starts with Us",
+      "author": "Colleen Hoover",
+      "price": 13.95,
+      "description": "Switching between the perspectives of Lily and Atlas, It Starts with Us picks up right where the epilogue for the gripping, pulse-pounding (Sarah Pekkanen, author of Perfect Neighbors) bestselling phenomenon It Ends with Us left off. Revealing more about Atlas’s past and following Lily as she embraces a second chance at true love while navigating a jealous ex-husband.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644605295i/60393672.jpg",
+      "rating": {
+        "stars": {
+          "five": 35,
+          "four": 34,
+          "three": 22,
+          "two": 6,
+          "one": 1
+        },
+        "rate": 3.95,
+        "count": "841,048"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 64,
+      "name": "Archer's Voice",
+      "author": "Mia Sheridan",
+      "price": 13.95,
+      "description": "When Bree Prescott arrives in the sleepy, lakeside town of Pelion, Maine, she hopes against hope that this is the place where she will finally find the peace she so desperately seeks. On her first day there, her life collides with Archer Hale, an isolated man who holds a secret agony of his own. A man no one else sees.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1656593818i/32822135.jpg",
+      "rating": {
+        "stars": {
+          "five": 53,
+          "four": 28,
+          "three": 12,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.3,
+        "count": "281,110"
+      },
+      "bestseller": false,
+      "discount": 10,
+      "trending": false
+    },
+    {
+      "id": 65,
+      "name": "Every Summer After",
+      "author": "Carley Fortune",
+      "price": 12.95,
+      "description": "They say you can never go home again, and for Persephone Fraser, ever since she made the biggest mistake of her life a decade ago, that has felt too true. Instead of glittering summers on the lakeshore of her childhood, she spends them in a stylish apartment in the city, going out with friends, and keeping everyone a safe distance from her heart.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1630101647i/58014893.jpg",
+      "rating": {
+        "stars": {
+          "five": 46,
+          "four": 38,
+          "three": 12,
+          "two": 2,
+          "one": 1
+        },
+        "rate": 4.28,
+        "count": "301,170"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 66,
+      "name": "November 9",
+      "author": "Colleen Hoover",
+      "price": 14.95,
+      "description": "Fallon meets Ben, an aspiring novelist, the day before her scheduled cross-country move. Their untimely attraction leads them to spend Fallon’s last day in L.A. together, and her eventful life becomes the creative inspiration Ben has always sought for his novel. Over time and amidst the various relationships and tribulations of their own separate lives, they continue to meet on the same date every year. Until one day Fallon becomes unsure if Ben has been telling her the truth or fabricating a perfect reality for the sake of the ultimate plot twist.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447138036i/25111004.jpg",
+      "rating": {
+        "stars": {
+          "five": 48,
+          "four": 32,
+          "three": 13,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.21,
+        "count": "809,826"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 67,
+      "name": "It Ends with Us",
+      "author": "Colleen Hoover",
+      "price": 13.95,
+      "description": "Lily hasn’t always had it easy, but that’s never stopped her from working hard for the life she wants. She’s come a long way from the small town in Maine where she grew up — she graduated from college, moved to Boston, and started her own business. So when she feels a spark with a gorgeous neurosurgeon named Ryle Kincaid, everything in Lily’s life suddenly seems almost too good to be true.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470427482i/27362503.jpg",
+      "rating": {
+        "stars": {
+          "five": 53,
+          "four": 28,
+          "three": 12,
+          "two": 4,
+          "one": 1
+        },
+        "rate": 4.26,
+        "count": "2,460,054"
+      },
+      "bestseller": true,
+      "trending": false
+    },
+    {
+      "id": 68,
+      "name": "The Fault in Our Stars",
+      "author": "John Green",
+      "price": 13.95,
+      "description": "Despite the tumor-shrinking medical miracle that has bought her a few years, Hazel has never been anything but terminal, her final chapter inscribed upon diagnosis. But when a gorgeous plot twist named Augustus Waters suddenly appears at Cancer Kid Support Group, Hazel's story is about to be completely rewritten.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085.jpg",
+      "rating": {
+        "stars": {
+          "five": 47,
+          "four": 29,
+          "three": 16,
+          "two": 4,
+          "one": 2
+        },
+        "rate": 4.15,
+        "count": "4,767,992"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 69,
+      "name": "Me Before You",
+      "author": "Jojo Moyes",
+      "price": 20.95,
+      "description": "Louisa Clark is an ordinary girl living an exceedingly ordinary life—steady boyfriend, close family—who has barely been farther afield than their tiny village. She takes a badly needed job working for ex–Master of the Universe Will Traynor, who is wheelchair bound after an accident. Will has always lived a huge life—big deals, extreme sports, worldwide travel—and now he’s pretty sure he cannot live the way he is.Will is acerbic, moody, bossy—but Lou refuses to treat him with kid gloves, and soon his happiness means more to her than she expected. When she learns that Will has shocking plans of his own, she sets out to show him that life is still worth living.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665087720i/17347634.jpg",
+      "rating": {
+        "stars": {
+          "five": 49,
+          "four": 33,
+          "three": 12,
+          "two": 3,
+          "one": 1
+        },
+        "rate": 4.26,
+        "count": "1,513,029"
+      },
+      "bestseller": false,
+      "trending": false
+    },
+    {
+      "id": 70,
+      "name": "The Notebook",
+      "author": "Nicholas Sparks",
+      "price": 13.95,
+      "description": "Set amid the austere beauty of the North Carolina coast begins the story of Noah Calhoun, a rural Southerner recently returned from the Second World War. Noah is restoring a plantation home to its former glory, and he is haunted by images of the beautiful girl he met fourteen years earlier, a girl he loved like no other. Unable to find her, yet unwilling to forget the summer they spent together, Noah is content to live with only memories...until she unexpectedly returns to his town to see him once again.",
+      "Genre": "rommance",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1483183484i/33648131.jpg",
+      "rating": {
+        "stars": {
+          "five": 49,
+          "four": 27,
+          "three": 15,
+          "two": 5,
+          "one": 3
+        },
+        "rate": 4.14,
+        "count": "1,597,100"
+      },
+      "bestseller": false,
+      "trending": false
+    }
+  ],
+  "users": [
+    {
+      "fullName": "salsabeel",
+      "email": "salsabeel.alzaqa@gmail.com",
+      "password": "salsabeel",
+      "phone": "0595822464",
+      "id": 1
+    }
+  ],
+  "carts": [
+    {
+      "id": 1,
+      "userId": "1",
+      "products": [],
+      "items": 0,
+      "subtotal": 0,
+      "totaldiscount": 0,
+      "alltotal": 0
+    }
+  ],
+  "wishlists": [
+    {
+      "id": 1,
+      "userId": "1",
+      "products": [],
+      "items": 0
+    }
+  ]
+}
