@@ -1569,7 +1569,7 @@
   "carts": [
     {
       "id": 1,
-      "userId": "1",
+      "userId": 1,
       "products": [],
       "items": 0,
       "subtotal": 0,
@@ -1580,7 +1580,7 @@
   "wishlists": [
     {
       "id": 1,
-      "userId": "1",
+      "userId": 1,
       "products": [],
       "items": 0
     }
