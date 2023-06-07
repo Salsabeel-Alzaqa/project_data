@@ -1567,7 +1567,7 @@
     },
   {
     "fullName": "Maher",
-    "email": "88kimkaai@gmail.com",
+    "email": "88Ali@gmail.com",
     "password": "salsabeel",
     "phone": "0595822464",
     "id": 2
@@ -1635,6 +1635,18 @@
       "userId": 1,
       "comment":"goood",
       "email":"salsabeel.alzaqa@gmail.com"
+    },
+    {
+      "id": 2,
+      "userId":2,
+      "comment":"fast delivery",
+      "email":"88Ali@gmail.com"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "comment":"good quality",
+      "email":"nadirah.zaqa@gmail.com"
     }
   ]
 }
