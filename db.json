@@ -1564,7 +1564,21 @@
       "password": "salsabeel",
       "phone": "0595822464",
       "id": 1
-    }
+    },
+  {
+    "fullName": "Maher",
+    "email": "88kimkaai@gmail.com",
+    "password": "salsabeel",
+    "phone": "0595822464",
+    "id": 2
+  },
+  {
+    "fullName": "nadirah zaqa",
+    "email": "nadirah.zaqa@gmail.com",
+    "password": "salsabeel",
+    "phone": "0595822464",
+    "id": 3
+  }
   ],
   "carts": [
     {
@@ -1575,7 +1589,25 @@
       "subtotal": 0,
       "totaldiscount": 0,
       "alltotal": 0
-    }
+    },
+  {
+    "userId": 2,
+    "products": [],
+    "items": 0,
+    "subtotal": 0,
+    "totaldiscount": 0,
+    "alltotal": 0,
+    "id": 2
+  },
+  {
+    "userId": 3,
+    "products": [],
+    "items": 0,
+    "subtotal": 0,
+    "totaldiscount": 0,
+    "alltotal": 0,
+    "id": 3
+  }
   ],
   "wishlists": [
     {
@@ -1583,7 +1615,26 @@
       "userId": 1,
       "products": [],
       "items": 0
-    }
+    },
+  {
+    "userId": 2,
+    "products": [],
+    "items": 0,
+    "id": 2
+  },
+  {
+    "userId": 3,
+    "products": [],
+    "items": 0,
+    "id": 3
+  }
   ],
-  "reviews":[]
+  "reviews":[
+    {
+      "id": 1,
+      "userId": 1,
+      "comment":"goood",
+      "email":"salsabeel.alzaqa@gmail.com"
+    }
+  ]
 }
