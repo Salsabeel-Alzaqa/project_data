@@ -1628,25 +1628,5 @@
     "items": 0,
     "id": 3
   }
-  ],
-  "reviews":[
-    {
-      "id": 1,
-      "userId": 1,
-      "comment":"goood",
-      "email":"salsabeel.alzaqa@gmail.com"
-    },
-    {
-      "id": 2,
-      "userId":2,
-      "comment":"fast delivery",
-      "email":"88Ali@gmail.com"
-    },
-    {
-      "id": 3,
-      "userId": 3,
-      "comment":"good quality",
-      "email":"nadirah.zaqa@gmail.com"
-    }
   ]
 }
